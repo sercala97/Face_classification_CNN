@@ -1,4 +1,3 @@
-# Face_classification_CNN
 
 Autores: Sergio Cañón e Ignacio Ruiz de Zuazu.
 
